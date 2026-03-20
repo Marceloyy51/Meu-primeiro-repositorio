@@ -14,7 +14,8 @@ body {
 
 /* estiliza o cabeçalho */
 header {
-    background-color: #95c769; /* define a cor de fundo do cabeçalho */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #61f9f9; /* define a cor de fundo do cabeçalho */
     color: rgb(247, 15, 15); /* define a cor do texto do cabeçalho */
     text-align: center; /* centraliza o texto dentro do cabeçalho */
     padding: 30px; /* adiciona espaçamento interno em todos os lados */
